@@ -16,7 +16,8 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # facebook login feature
 gem 'omniauth-facebook'
-
+# twitter login feature
+gem 'omniauth-twitter'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
